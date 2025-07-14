@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="banner" />
 </p>
 
-## 🙋‍♂️ Summary
+## 🙋‍♂️ About Me
 🎓 Graduate Student in Computer Information Systems at **University of Maryland Baltimore County** (Dec 2024)  
 💻 Backend Developer with **4+ years of experience** designing scalable microservices, distributed systems, and GenAI integrations  
 🌐 Previously at **Capital One, Bank of America, and Infosys**, driving digital transformation projects  
