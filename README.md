@@ -25,11 +25,11 @@
 <div align="center">
 
 <a href="https://app-careerlog.vercel.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranahithBabu&repo=app-careerlog&show_icons=true&theme=great-gatsby" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranahithBabu&repo=app-careerlog&show_icons=true&theme=great-gatsby&cache_seconds=3600" />
 </a>
 
 <a href="https://diet-record-app-frontend.onrender.com/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranahithBabu&repo=diet-record-app&show_icons=true&theme=great-gatsby" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranahithBabu&repo=diet-record-app&show_icons=true&theme=great-gatsby&cache_seconds=3600" />
 </a>
 
 <a href="https://github.com/PranahithBabu/three-js-wobble-effect">
@@ -41,11 +41,11 @@
 </a>
 
 <a href="https://hotel-management-full-stack.vercel.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranahithBabu&repo=hotel-management-application&show_icons=true&theme=great-gatsby" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranahithBabu&repo=hotel-management-application&show_icons=true&theme=great-gatsby&cache_seconds=3600" />
 </a>
 
 <a href="https://github.com/PranahithBabu/online-shopping-db">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranahithBabu&repo=online-shopping-db&show_icons=true&theme=great-gatsby" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranahithBabu&repo=online-shopping-db&show_icons=true&theme=great-gatsby&cache_seconds=3600" />
 </a>
 
 </div>
