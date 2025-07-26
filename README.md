@@ -45,7 +45,7 @@
 </a>
 
 <a href="https://github.com/PranahithBabu/online-shopping-db">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranahithBabu&repo=online-shopping-db&show_icons=true&theme=great-gatsby />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranahithBabu&repo=online-shopping-db&show_icons=true&theme=great-gatsby&cache_seconds=3600" />
 </a>
 
 </div>
