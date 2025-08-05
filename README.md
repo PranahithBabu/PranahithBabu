@@ -7,8 +7,8 @@
 
 ## 🙋‍♂️ About Me
 🎓 Graduate Student in Computer Information Systems at **University of Maryland Baltimore County** (Dec 2024)  
-💻 Backend Developer with **4+ years of experience** designing scalable microservices, distributed systems, and GenAI integrations  
-🌐 Previously at **Capital One, Bank of America, and Infosys**, driving digital transformation projects  
+💻 Backend Developer with **3+ years of experience** designing scalable microservices, distributed systems, and GenAI integrations  
+🌐 Previously at **Bank of America**, driving FinTech project
 🏆 Strong expertise in **Java, Spring Boot, Kafka, AWS, Azure, Docker**, and building real-time applications with **React.js**
 
 ## 🔭 Current Focus & Goals
